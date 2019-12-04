@@ -94,6 +94,11 @@
 	shallow = true
 	branch = v1.7.4
 	registered = false
+[submodule "cosegData"]
+	path = cosegData
+	url = https://github.com/tdhock/cosegData
+	shallow = true
+	registered = false
 [submodule "data.table"]
 	path = data.table
 	url = https://github.com/Rdatatable/data.table

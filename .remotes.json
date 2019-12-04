@@ -7,6 +7,12 @@
     "from": "animint2"
   },
   {
+    "package": "cosegData",
+    "url": "https://github.com/tdhock/cosegData",
+    "via": ["PeakSegOptimal"],
+    "from": "PeakSegOptimal"
+  },
+  {
     "package": "data.table",
     "url": "https://github.com/Rdatatable/data.table",
     "via": ["nc"],
