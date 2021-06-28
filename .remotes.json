@@ -25,6 +25,12 @@
     "from": "animint2"
   },
   {
+    "package": "data.table",
+    "url": "https://github.com/Rdatatable/data.table",
+    "via": ["nc"],
+    "from": "nc"
+  },
+  {
     "package": "wdman",
     "url": "https://github.com/ropensci/wdman",
     "via": ["animint2", "RSelenium"],

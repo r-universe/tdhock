@@ -79,6 +79,11 @@
 	url = https://github.com/ropensci/binman
 	shallow = true
 	registered = false
+[submodule "data.table"]
+	path = data.table
+	url = https://github.com/Rdatatable/data.table
+	shallow = true
+	registered = false
 [submodule "wdman"]
 	path = wdman
 	url = https://github.com/ropensci/wdman
