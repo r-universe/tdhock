@@ -1,0 +1,33 @@
+[
+  {
+    "package": "RSelenium",
+    "url": "https://github.com/ropensci/RSelenium",
+    "via": ["animint2"],
+    "branch": "v1.7.4",
+    "from": "animint2"
+  },
+  {
+    "package": "Rcompression",
+    "url": "https://github.com/omegahat/Rcompression",
+    "via": ["animint2", "RSelenium"],
+    "from": "animint2"
+  },
+  {
+    "package": "binman",
+    "url": "https://github.com/ropensci/binman",
+    "via": ["animint2", "RSelenium"],
+    "from": "animint2"
+  },
+  {
+    "package": "binman",
+    "url": "https://github.com/ropensci/binman",
+    "via": ["animint2", "RSelenium", "wdman"],
+    "from": "animint2"
+  },
+  {
+    "package": "wdman",
+    "url": "https://github.com/ropensci/wdman",
+    "via": ["animint2", "RSelenium"],
+    "from": "animint2"
+  }
+]

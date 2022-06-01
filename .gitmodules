@@ -63,3 +63,24 @@
 	url = https://github.com/tdhock/weightedroc
 	shallow = true
 	registered = true
+[submodule "RSelenium"]
+	path = RSelenium
+	url = https://github.com/ropensci/RSelenium
+	shallow = true
+	branch = v1.7.4
+	registered = false
+[submodule "Rcompression"]
+	path = Rcompression
+	url = https://github.com/omegahat/Rcompression
+	shallow = true
+	registered = false
+[submodule "binman"]
+	path = binman
+	url = https://github.com/ropensci/binman
+	shallow = true
+	registered = false
+[submodule "wdman"]
+	path = wdman
+	url = https://github.com/ropensci/wdman
+	shallow = true
+	registered = false
