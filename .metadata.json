@@ -1,0 +1,50 @@
+[
+  {
+    "package": "animint2",
+    "oncran": true
+  },
+  {
+    "package": "aum",
+    "oncran": true
+  },
+  {
+    "package": "binsegRcpp",
+    "oncran": true
+  },
+  {
+    "package": "directlabels",
+    "oncran": true
+  },
+  {
+    "package": "inlinedocs",
+    "oncran": true
+  },
+  {
+    "package": "LOPART",
+    "oncran": true
+  },
+  {
+    "package": "namedCapture",
+    "oncran": true
+  },
+  {
+    "package": "nc",
+    "oncran": true
+  },
+  {
+    "package": "PeakSegDisk",
+    "oncran": true
+  },
+  {
+    "package": "PeakSegJoint",
+    "oncran": true
+  },
+  {
+    "package": "penaltyLearning",
+    "oncran": true
+  },
+  {
+    "package": "WeightedROC",
+    "oncran": true
+  }
+]
