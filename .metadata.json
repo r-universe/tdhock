@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "atime",
+    "oncran": true
+  },
+  {
     "package": "aum",
     "oncran": true
   },

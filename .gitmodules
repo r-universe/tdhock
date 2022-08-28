@@ -8,6 +8,11 @@
 	url = https://github.com/tdhock/animint2
 	shallow = true
 	registered = true
+[submodule "atime"]
+	path = atime
+	url = https://github.com/tdhock/atime
+	shallow = true
+	registered = true
 [submodule "aum"]
 	path = aum
 	url = https://github.com/tdhock/aum
