@@ -7,33 +7,9 @@
     "from": "animint2"
   },
   {
-    "package": "Rcompression",
-    "url": "https://github.com/omegahat/Rcompression",
-    "via": ["animint2", "RSelenium"],
-    "from": "animint2"
-  },
-  {
-    "package": "binman",
-    "url": "https://github.com/ropensci/binman",
-    "via": ["animint2", "RSelenium"],
-    "from": "animint2"
-  },
-  {
-    "package": "binman",
-    "url": "https://github.com/ropensci/binman",
-    "via": ["animint2", "RSelenium", "wdman"],
-    "from": "animint2"
-  },
-  {
     "package": "data.table",
     "url": "https://github.com/Rdatatable/data.table",
     "via": ["nc"],
     "from": "nc"
-  },
-  {
-    "package": "wdman",
-    "url": "https://github.com/ropensci/wdman",
-    "via": ["animint2", "RSelenium"],
-    "from": "animint2"
   }
 ]
