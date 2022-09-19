@@ -23,9 +23,19 @@
 	url = https://github.com/tdhock/binsegrcpp
 	shallow = true
 	registered = true
+[submodule "directlabels"]
+	path = directlabels
+	url = https://github.com/tdhock/directlabels
+	shallow = true
+	registered = true
 [submodule "inlinedocs"]
 	path = inlinedocs
 	url = https://github.com/tdhock/inlinedocs
+	shallow = true
+	registered = true
+[submodule "LOPART"]
+	path = LOPART
+	url = https://github.com/tdhock/lopart
 	shallow = true
 	registered = true
 [submodule "namedCapture"]

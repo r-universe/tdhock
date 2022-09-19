@@ -16,7 +16,15 @@
     "oncran": true
   },
   {
+    "package": "directlabels",
+    "oncran": true
+  },
+  {
     "package": "inlinedocs",
+    "oncran": true
+  },
+  {
+    "package": "LOPART",
     "oncran": true
   },
   {
