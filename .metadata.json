@@ -36,7 +36,15 @@
     "oncran": true
   },
   {
+    "package": "PeakError",
+    "oncran": true
+  },
+  {
     "package": "PeakSegDisk",
+    "oncran": true
+  },
+  {
+    "package": "PeakSegDP",
     "oncran": true
   },
   {
@@ -44,7 +52,15 @@
     "oncran": true
   },
   {
+    "package": "PeakSegOptimal",
+    "oncran": true
+  },
+  {
     "package": "penaltyLearning",
+    "oncran": true
+  },
+  {
+    "package": "plotHMM",
     "oncran": true
   },
   {

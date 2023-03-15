@@ -48,9 +48,19 @@
 	url = https://github.com/tdhock/nc
 	shallow = true
 	registered = true
+[submodule "PeakError"]
+	path = PeakError
+	url = https://github.com/tdhock/peakerror
+	shallow = true
+	registered = true
 [submodule "PeakSegDisk"]
 	path = PeakSegDisk
 	url = https://github.com/tdhock/peaksegdisk
+	shallow = true
+	registered = true
+[submodule "PeakSegDP"]
+	path = PeakSegDP
+	url = https://github.com/tdhock/peaksegdp
 	shallow = true
 	registered = true
 [submodule "PeakSegJoint"]
@@ -58,9 +68,19 @@
 	url = https://github.com/tdhock/peaksegjoint
 	shallow = true
 	registered = true
+[submodule "PeakSegOptimal"]
+	path = PeakSegOptimal
+	url = https://github.com/tdhock/peaksegoptimal
+	shallow = true
+	registered = true
 [submodule "penaltyLearning"]
 	path = penaltyLearning
 	url = https://github.com/tdhock/penaltylearning
+	shallow = true
+	registered = true
+[submodule "plotHMM"]
+	path = plotHMM
+	url = https://github.com/tdhock/plothmm
 	shallow = true
 	registered = true
 [submodule "WeightedROC"]
