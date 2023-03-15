@@ -3,61 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "animint2"]
-	path = animint2
-	url = https://github.com/tdhock/animint2
-	shallow = true
-	registered = true
-[submodule "atime"]
-	path = atime
-	url = https://github.com/tdhock/atime
-	shallow = true
-	registered = true
-[submodule "aum"]
-	path = aum
-	url = https://github.com/tdhock/aum
-	shallow = true
-	registered = true
-[submodule "binsegRcpp"]
-	path = binsegRcpp
-	url = https://github.com/tdhock/binsegrcpp
-	shallow = true
-	registered = true
-[submodule "directlabels"]
-	path = directlabels
-	url = https://github.com/tdhock/directlabels
-	shallow = true
-	registered = true
-[submodule "inlinedocs"]
-	path = inlinedocs
-	url = https://github.com/tdhock/inlinedocs
-	shallow = true
-	registered = true
-[submodule "LOPART"]
-	path = LOPART
-	url = https://github.com/tdhock/lopart
-	shallow = true
-	registered = true
-[submodule "namedCapture"]
-	path = namedCapture
-	url = https://github.com/tdhock/namedcapture
-	shallow = true
-	registered = true
-[submodule "nc"]
-	path = nc
-	url = https://github.com/tdhock/nc
-	shallow = true
-	registered = true
-[submodule "PeakSegDisk"]
-	path = PeakSegDisk
-	url = https://github.com/tdhock/peaksegdisk
-	shallow = true
-	registered = true
-[submodule "PeakSegJoint"]
-	path = PeakSegJoint
-	url = https://github.com/tdhock/peaksegjoint
-	shallow = true
-	registered = true
 [submodule "penaltyLearning"]
 	path = penaltyLearning
 	url = https://github.com/tdhock/penaltylearning
@@ -66,6 +11,61 @@
 [submodule "WeightedROC"]
 	path = WeightedROC
 	url = https://github.com/tdhock/weightedroc
+	shallow = true
+	registered = true
+[submodule "namedCapture"]
+	path = namedCapture
+	url = https://github.com/tdhock/namedcapture
+	shallow = true
+	registered = true
+[submodule "animint2"]
+	path = animint2
+	url = https://github.com/tdhock/animint2
+	shallow = true
+	registered = true
+[submodule "PeakSegJoint"]
+	path = PeakSegJoint
+	url = https://github.com/tdhock/peaksegjoint
+	shallow = true
+	registered = true
+[submodule "PeakSegDisk"]
+	path = PeakSegDisk
+	url = https://github.com/tdhock/peaksegdisk
+	shallow = true
+	registered = true
+[submodule "nc"]
+	path = nc
+	url = https://github.com/tdhock/nc
+	shallow = true
+	registered = true
+[submodule "directlabels"]
+	path = directlabels
+	url = https://github.com/tdhock/directlabels
+	shallow = true
+	registered = true
+[submodule "atime"]
+	path = atime
+	url = https://github.com/tdhock/atime
+	shallow = true
+	registered = true
+[submodule "LOPART"]
+	path = LOPART
+	url = https://github.com/tdhock/lopart
+	shallow = true
+	registered = true
+[submodule "aum"]
+	path = aum
+	url = https://github.com/tdhock/aum
+	shallow = true
+	registered = true
+[submodule "inlinedocs"]
+	path = inlinedocs
+	url = https://github.com/tdhock/inlinedocs
+	shallow = true
+	registered = true
+[submodule "binsegRcpp"]
+	path = binsegRcpp
+	url = https://github.com/tdhock/binsegrcpp
 	shallow = true
 	registered = true
 [submodule "RSelenium"]
