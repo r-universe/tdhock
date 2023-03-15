@@ -1,34 +1,6 @@
 [
   {
-    "package": "penaltyLearning",
-    "oncran": true
-  },
-  {
-    "package": "WeightedROC",
-    "oncran": true
-  },
-  {
-    "package": "namedCapture",
-    "oncran": true
-  },
-  {
     "package": "animint2",
-    "oncran": true
-  },
-  {
-    "package": "PeakSegJoint",
-    "oncran": true
-  },
-  {
-    "package": "PeakSegDisk",
-    "oncran": true
-  },
-  {
-    "package": "nc",
-    "oncran": true
-  },
-  {
-    "package": "directlabels",
     "oncran": true
   },
   {
@@ -36,11 +8,15 @@
     "oncran": true
   },
   {
-    "package": "LOPART",
+    "package": "aum",
     "oncran": true
   },
   {
-    "package": "aum",
+    "package": "binsegRcpp",
+    "oncran": true
+  },
+  {
+    "package": "directlabels",
     "oncran": true
   },
   {
@@ -48,7 +24,31 @@
     "oncran": true
   },
   {
-    "package": "binsegRcpp",
+    "package": "LOPART",
+    "oncran": true
+  },
+  {
+    "package": "namedCapture",
+    "oncran": true
+  },
+  {
+    "package": "nc",
+    "oncran": true
+  },
+  {
+    "package": "PeakSegDisk",
+    "oncran": true
+  },
+  {
+    "package": "PeakSegJoint",
+    "oncran": true
+  },
+  {
+    "package": "penaltyLearning",
+    "oncran": true
+  },
+  {
+    "package": "WeightedROC",
     "oncran": true
   }
 ]
