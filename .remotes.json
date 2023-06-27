@@ -1,12 +1,5 @@
 [
   {
-    "package": "RSelenium",
-    "url": "https://github.com/ropensci/RSelenium",
-    "via": ["animint2"],
-    "branch": "v1.7.4",
-    "from": "animint2"
-  },
-  {
     "package": "cosegData",
     "url": "https://github.com/tdhock/cosegData",
     "via": ["PeakSegOptimal"],

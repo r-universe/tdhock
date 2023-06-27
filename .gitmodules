@@ -83,12 +83,6 @@
 	url = https://github.com/tdhock/weightedroc
 	shallow = true
 	registered = true
-[submodule "RSelenium"]
-	path = RSelenium
-	url = https://github.com/ropensci/RSelenium
-	shallow = true
-	branch = v1.7.4
-	registered = false
 [submodule "cosegData"]
 	path = cosegData
 	url = https://github.com/tdhock/cosegData
