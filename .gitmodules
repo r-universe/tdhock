@@ -1,90 +1,56 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "atime"]
 	path = atime
 	url = https://github.com/tdhock/atime
-	shallow = true
-	registered = true
 [submodule "aum"]
 	path = aum
 	url = https://github.com/tdhock/aum
-	shallow = true
-	registered = true
 [submodule "binsegRcpp"]
 	path = binsegRcpp
 	url = https://github.com/tdhock/binsegrcpp
-	shallow = true
-	registered = true
 [submodule "directlabels"]
 	path = directlabels
 	url = https://github.com/tdhock/directlabels
-	shallow = true
-	registered = true
 [submodule "inlinedocs"]
 	path = inlinedocs
 	url = https://github.com/tdhock/inlinedocs
-	shallow = true
-	registered = true
 [submodule "LOPART"]
 	path = LOPART
 	url = https://github.com/tdhock/lopart
-	shallow = true
-	registered = true
 [submodule "namedCapture"]
 	path = namedCapture
 	url = https://github.com/tdhock/namedcapture
-	shallow = true
-	registered = true
 [submodule "nc"]
 	path = nc
 	url = https://github.com/tdhock/nc
-	shallow = true
-	registered = true
 [submodule "PeakError"]
 	path = PeakError
 	url = https://github.com/tdhock/peakerror
-	shallow = true
-	registered = true
 [submodule "PeakSegDisk"]
 	path = PeakSegDisk
 	url = https://github.com/tdhock/peaksegdisk
-	shallow = true
-	registered = true
 [submodule "PeakSegDP"]
 	path = PeakSegDP
 	url = https://github.com/tdhock/peaksegdp
-	shallow = true
-	registered = true
 [submodule "PeakSegJoint"]
 	path = PeakSegJoint
 	url = https://github.com/tdhock/peaksegjoint
-	shallow = true
-	registered = true
 [submodule "PeakSegOptimal"]
 	path = PeakSegOptimal
 	url = https://github.com/tdhock/peaksegoptimal
-	shallow = true
-	registered = true
 [submodule "penaltyLearning"]
 	path = penaltyLearning
 	url = https://github.com/tdhock/penaltylearning
-	shallow = true
-	registered = true
 [submodule "plotHMM"]
 	path = plotHMM
 	url = https://github.com/tdhock/plothmm
-	shallow = true
-	registered = true
 [submodule "WeightedROC"]
 	path = WeightedROC
 	url = https://github.com/tdhock/weightedroc
-	shallow = true
-	registered = true
 [submodule "cosegData"]
 	path = cosegData
 	url = https://github.com/tdhock/cosegData
-	shallow = true
 	registered = false
