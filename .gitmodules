@@ -2,6 +2,27 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "LOPART"]
+	path = LOPART
+	url = https://github.com/tdhock/lopart
+[submodule "PeakError"]
+	path = PeakError
+	url = https://github.com/tdhock/peakerror
+[submodule "PeakSegDP"]
+	path = PeakSegDP
+	url = https://github.com/tdhock/peaksegdp
+[submodule "PeakSegDisk"]
+	path = PeakSegDisk
+	url = https://github.com/tdhock/peaksegdisk
+[submodule "PeakSegJoint"]
+	path = PeakSegJoint
+	url = https://github.com/tdhock/peaksegjoint
+[submodule "PeakSegOptimal"]
+	path = PeakSegOptimal
+	url = https://github.com/tdhock/peaksegoptimal
+[submodule "WeightedROC"]
+	path = WeightedROC
+	url = https://github.com/tdhock/weightedroc
 [submodule "atime"]
 	path = atime
 	url = https://github.com/tdhock/atime
@@ -11,46 +32,25 @@
 [submodule "binsegRcpp"]
 	path = binsegRcpp
 	url = https://github.com/tdhock/binsegrcpp
+[submodule "cosegData"]
+	path = cosegData
+	url = https://github.com/tdhock/cosegData
+	registered = false
 [submodule "directlabels"]
 	path = directlabels
 	url = https://github.com/tdhock/directlabels
 [submodule "inlinedocs"]
 	path = inlinedocs
 	url = https://github.com/tdhock/inlinedocs
-[submodule "LOPART"]
-	path = LOPART
-	url = https://github.com/tdhock/lopart
 [submodule "namedCapture"]
 	path = namedCapture
 	url = https://github.com/tdhock/namedcapture
 [submodule "nc"]
 	path = nc
 	url = https://github.com/tdhock/nc
-[submodule "PeakError"]
-	path = PeakError
-	url = https://github.com/tdhock/peakerror
-[submodule "PeakSegDisk"]
-	path = PeakSegDisk
-	url = https://github.com/tdhock/peaksegdisk
-[submodule "PeakSegDP"]
-	path = PeakSegDP
-	url = https://github.com/tdhock/peaksegdp
-[submodule "PeakSegJoint"]
-	path = PeakSegJoint
-	url = https://github.com/tdhock/peaksegjoint
-[submodule "PeakSegOptimal"]
-	path = PeakSegOptimal
-	url = https://github.com/tdhock/peaksegoptimal
 [submodule "penaltyLearning"]
 	path = penaltyLearning
 	url = https://github.com/tdhock/penaltylearning
 [submodule "plotHMM"]
 	path = plotHMM
 	url = https://github.com/tdhock/plothmm
-[submodule "WeightedROC"]
-	path = WeightedROC
-	url = https://github.com/tdhock/weightedroc
-[submodule "cosegData"]
-	path = cosegData
-	url = https://github.com/tdhock/cosegData
-	registered = false
