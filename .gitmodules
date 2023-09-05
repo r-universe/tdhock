@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "FLOPART"]
+	path = FLOPART
+	url = https://github.com/tdhock/flopart
 [submodule "LOPART"]
 	path = LOPART
 	url = https://github.com/tdhock/lopart
@@ -48,6 +51,9 @@
 [submodule "nc"]
 	path = nc
 	url = https://github.com/tdhock/nc
+[submodule "neuroblastoma"]
+	path = neuroblastoma
+	url = https://github.com/tdhock/neuroblastoma
 [submodule "penaltyLearning"]
 	path = penaltyLearning
 	url = https://github.com/tdhock/penaltylearning
