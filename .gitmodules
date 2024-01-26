@@ -48,9 +48,6 @@
 [submodule "mlr3resampling"]
 	path = mlr3resampling
 	url = https://github.com/tdhock/mlr3resampling
-[submodule "namedCapture"]
-	path = namedCapture
-	url = https://github.com/tdhock/namedcapture
 [submodule "nc"]
 	path = nc
 	url = https://github.com/tdhock/nc
