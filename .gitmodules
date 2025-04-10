@@ -60,3 +60,6 @@
 [submodule "plotHMM"]
 	path = plotHMM
 	url = https://github.com/tdhock/plothmm
+[submodule "slurm"]
+	path = slurm
+	url = https://github.com/tdhock/slurm
