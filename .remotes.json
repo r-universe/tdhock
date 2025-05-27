@@ -4,5 +4,11 @@
     "url": "https://github.com/tdhock/cosegData",
     "via": ["PeakSegOptimal"],
     "from": "PeakSegOptimal"
+  },
+  {
+    "package": "mlr3",
+    "url": "https://github.com/mlr-org/mlr3",
+    "via": ["mlr3resampling"],
+    "from": "mlr3resampling"
   }
 ]
