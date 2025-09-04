@@ -49,6 +49,10 @@
 	path = mlr3
 	url = https://github.com/mlr-org/mlr3
 	registered = false
+[submodule "mlr3misc"]
+	path = mlr3misc
+	url = https://github.com/mlr-org/mlr3misc
+	registered = false
 [submodule "mlr3resampling"]
 	path = mlr3resampling
 	url = https://github.com/tdhock/mlr3resampling
